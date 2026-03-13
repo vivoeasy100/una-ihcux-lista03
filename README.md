@@ -38,7 +38,7 @@ Isso melhora a **experiência do usuário (UX)**, pois:
 
 ## 📸 Evidência
 
-O repositório contém a imagem **minha-evidencia.png**, que mostra o terminal durante a execução da varredura.
+O repositório contém a imagem **[minha-evidencia.png](https://github.com/vivoeasy100/una-ihcux-lista03/blob/main/Captura%20de%20tela%202026-03-13%20030219.png)**, que mostra o terminal durante a execução da varredura.
 
 Essa evidência demonstra o feedback visual do sistema enquanto o processo está sendo executado.
 
